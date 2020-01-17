@@ -1,1 +1,21 @@
-{"Name":"ritl","License":"CC0","Authors":["Joseph Orr","Vijay Mittal"],"Acknowledgements":"","HowToAcknowledge":"Paper Pending","Funding":["National Institute of Mental Health Grant R01MH094650","National Institute on Drug Abuse F32DA034412"],"ReferencesAndLinks":[],"DatasetDOI":"10.18112/openneuro.ds001371.v1.0.0","BIDSVersion":"1.1.0"}
+{
+    "Acknowledgements": "TODO: whom you want to acknowledge",
+    "Authors": [
+        "Joseph M. Orr",
+        "Vijay A. Mittal"
+    ],
+    "BIDSVersion": "1.0.1",
+    "DatasetDOI": "10.18112/openneuro.ds001371.v1.0.0",
+    "Funding": [
+        "R01MH094650",
+        "F32DA034412",
+        "F32MH102898",
+        "Brain & Behavior Research Foundation NARSAD Young Investigator Award"
+    ],
+    "HowToAcknowledge": "Contact Joseph M. Orr at joseph.orr@tamu.edu for current status",
+    "License": "CCO",
+    "Name": "Early signs of disrupted rule learning in adolescents at clinical high risk for psychosis",
+    "ReferencesAndLinks": [
+        "TODO"
+    ]
+}
